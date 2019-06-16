@@ -1,5 +1,6 @@
-<h3>BUBBLE CODE 2019</h3> <br />
+<h3>BUBBLE CODE 2019</h3>
 Please read this carefully and follow the instructions to submit your application.
+If you have any further questions, please contact BubbleCode at humanresources@bubblecode.ca.
 
 <hr />
 
