@@ -10,17 +10,9 @@ Redux is not necessarily required but feel free to use it if you'd like to.
 
 <h3>Steps to follow:</h3>
 
-1. In your terminal, go to the place you want to download the folder
-
-2. Clone the repository --> `git clone https://github.com/bubblecode2019/web-developer-application.git`
-
-3. Checkout a new branch and name it using your name  --> `git checkout -b {firstname}-{lastname}`
-
-4. Install the necessary modules using npm or yarn --> `npm i` or `yarn install`
-
-5. Complete necessary requirements
-
-6. Push code to our remote repository --> `git push --set-upstream origin {firstname-lastname}`
+Fork the repository.
+Complete the task.
+Submit a pull request.
 
 Bonus:
 Add the ability to fetch items from jsonplacerholder.com, Faker, or any other public API of your choice.
