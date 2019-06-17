@@ -10,11 +10,11 @@ Redux is not necessarily required but feel free to use it if you'd like to.
 
 <h3>Steps to follow:</h3>
 
-Fork the repository.
-Complete the task.
-Submit a pull request.
+Fork the repository. <br />
+Complete the task. <br />
+Submit a pull request. <br />
 
-Bonus:
+<h3>Bonus:</h3>
 Add the ability to fetch items from jsonplacerholder.com, Faker, or any other public API of your choice.
 
 <h3>Suggested Resources:</h3>
