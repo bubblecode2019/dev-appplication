@@ -6,21 +6,21 @@ If you have any further questions, please contact BubbleCode at humanresources@b
 
 <h3>Task:</h3>
 Create a small list application with the ability to create and delete items. <br />
-Redux is not necessarily required but feel free to use it if you'd like to.
+Redux is not necessarily required but feel free to use it if you'd like.
 
 <h3>Steps to follow:</h3>
 
 1. In your terminal, go to the place you want to download the folder
 
-2. Clone the repository --> `git clone https://github.com/bubblecode2019/web-developer-application.git`
+2. Fork the repository
 
-3. Checkout a new branch and name it using your name --> `git checkout -b {firstname}-{lastname}`
+3. Checkout a new branch and name it using your first name and last name - ex: john-doe
 
-4. Install the necessary modules using npm or yarn --> `npm i` or `yarn install`
+4. Install the necessary modules using npm or yarn
 
 5. Complete the task requirements
 
-6. Push code to our remote repository --> `git push --set-upstream origin {firstname-lastname}`
+6. Create a pull request
 
 Bonus:
 Add the ability to fetch items from jsonplacerholder.com, Faker, or any other public API of your choice.
